@@ -2,7 +2,7 @@
 
 
 
-A small tool add contact number to whatapps without save contact number
+A small free tool send message to whatapps without save contact number to the contact list
 
 
 [Andriod download here](https://raw.githubusercontent.com/peterkong93/num2whatapps/gh-pages/app-release.apk)  
